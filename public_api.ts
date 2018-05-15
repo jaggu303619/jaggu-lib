@@ -1,0 +1,1 @@
+export * from './src/app/lib/desc-text/desc-text.module';
